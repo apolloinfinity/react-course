@@ -15,7 +15,7 @@ How to import and use scoped CSS files.
     color: 'red';
 }
 ```
-
+Then it can be used inside the .js file like so:
 
 ```jsx
 // Navigation.js
