@@ -30,3 +30,6 @@ function Nav() {
     )
 }
 ```
+
+## React Refs
+'useRef()' is a React hook that takes one argument and returns an object. It's primarly used to access DOM elements and to perist values in successive renders. 
